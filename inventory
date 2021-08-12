@@ -1,0 +1,9 @@
+[test1]
+serv1 user=scc author=minto
+serv2
+serv3
+
+[test2]
+serv4
+serv3
+
